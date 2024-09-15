@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>Next Js, React Js,MongoDB,Express Js & Cloud-Based Solutions **AWS**<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br> AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
 
-
 ### 🤝 Connect with me:
 <!-- [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/sayedhasan7) -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saiyed-hasan-mehdi/)
